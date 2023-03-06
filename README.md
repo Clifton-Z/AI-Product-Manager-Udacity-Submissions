@@ -2,4 +2,4 @@
 
 Submissions to the A.I Product Manager Certificate for Udacity. 
 
-link: https://www.udacity.com/course/ai-product-manager-nanodegree--nd088
+Link: https://www.udacity.com/course/ai-product-manager-nanodegree--nd088
